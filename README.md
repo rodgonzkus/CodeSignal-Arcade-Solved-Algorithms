@@ -1,5 +1,5 @@
 # CodeSignal-Arcade-Solved-Algorithms
-
+-------------------------------------------------------------------------------------------------------
 The following algorithms resolve the requirements of the tasks associated with their name in CodeSignal. 
 An attempt is made to break down the task logic through recursive code logic.
 --------------------------------------------------------------------------------------------------------
